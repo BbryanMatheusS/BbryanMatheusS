@@ -4,7 +4,7 @@ Hoje trabalho com front-end, atuando como estagiário em desenvolvimento web.
 
 # Um pouco sobre mim:
 
-Tenho um pouco de experiência com PHP,C,Java,JavaScript,React,ReactNative.
+Tenho um pouco de experiência com <strong> PHP, C, Java, JavaScript, React, ReactNative </strong>.
 
 Atualmente estou estudando o javascript, react !!
 
