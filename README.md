@@ -1,10 +1,10 @@
 # Olá, Sou a Bryan Matheus!!
 
-Hoje trabalho com front-end, atuando como estagiária em desenvolvimento web.
+Hoje trabalho com front-end, atuando como estagiário em desenvolvimento web.
 
 # Um pouco sobre mim:
 
-Tenho experiência com PHP,C,Java,JavaScript,React,ReactNative.
+Tenho um pouco de experiência com PHP,C,Java,JavaScript,React,ReactNative.
 
 Atualmente estou estudando o javascript, react !!
 
